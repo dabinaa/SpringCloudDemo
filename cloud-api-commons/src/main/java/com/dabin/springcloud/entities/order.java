@@ -7,5 +7,5 @@ import java.io.Serializable;
  * @author: dabin
  * @date: 2020/12/2221:32
  */
-public class order implements Serializable {
+public class Order implements Serializable {
 }

@@ -4,13 +4,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @ClassName:PaymentMain
+ * @ClassName:OrderMain
  * @author: dabin
- * @date: 2020/12/222:23
+ * @date: 2020/12/2823:51
  */
 @SpringBootApplication
-public class PaymentMain {
+public class OrderMain {
     public static void main(String[] args) {
-        SpringApplication.run(PaymentMain.class, args);
+        SpringApplication.run(OrderMain.class, args);
     }
 }
