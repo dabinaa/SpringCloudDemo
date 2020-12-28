@@ -1,0 +1,19 @@
+server:
+  port: 8001
+
+
+spring:
+  application:
+    name: cloudProviderPay
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/dabin
+    data-username: dabin
+    possword:123456
+
+
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: c
