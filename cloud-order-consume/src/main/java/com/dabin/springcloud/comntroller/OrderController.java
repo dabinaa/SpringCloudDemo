@@ -1,5 +1,7 @@
 package com.dabin.springcloud.comntroller;
 
+import com.dabin.springcloud.entities.CommonResult;
+import com.dabin.springcloud.entities.Order;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
