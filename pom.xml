@@ -12,6 +12,8 @@
         <module>cloudProviderPay</module>
         <module>cloud-order-consume</module>
         <module>cloud-api-commons</module>
+        <module>cloud-eureka-service</module>
+        <module>cloud-eureka-service2</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -32,6 +34,7 @@
     <!--子模块继承之后，提供作用：锁定版本+子module不用谢groupId和version-->
     <dependencyManagement>
         <dependencies>
+
             <!--spring boot 2.2.2-->
             <dependency>
                 <groupId>org.springframework.boot</groupId>
