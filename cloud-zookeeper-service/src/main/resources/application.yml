@@ -1,0 +1,12 @@
+server:
+  port: 8004
+
+
+
+spring:
+  application:
+    name: cloud-zookeepe-service
+  cloud:
+    zookeeper:
+      # zookeeper 机器的ip地址加端口号
+      connect-string:
