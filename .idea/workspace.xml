@@ -22,19 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c420c82-caad-4a3f-b60c-971d09d5f4d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/dabin/springcloud/entities/CommonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-order-consume/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-order-consume/src/main/java/com/dabin/springcloud/OrderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-order-consume/src/main/java/com/dabin/springcloud/comntroller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-order-consume/src/main/java/com/dabin/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-order-consume/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudProviderPay/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloudProviderPay/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudProviderPay/src/main/java/com/dabin/springcloud/PaymentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloudProviderPay/src/main/java/com/dabin/springcloud/springcloud/PaymentMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudProviderPay/src/main/java/com/dabin/springcloud/entities/order.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/dabin/springcloud/entities/order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8c420c82-caad-4a3f-b60c-971d09d5f4d8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +41,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="mavenHome" value="D:\saft\idea\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="D:\apache-maven-3.3.3\conf\setting2.xml" />
       </MavenGeneralSettings>
     </option>
@@ -75,38 +63,61 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-api-commons/src/main/java/com/dabin/springcloud/entities" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.20980091" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.side.proportion" value="0.21264368" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkspaces\SpringCloudDemo\SpringCloudDemo" />
+      <recent name="D:\ideaWorkspaces\SpringCloudDemo\SpringCloudDemo\cloud-eureka-service2\src\main\resources" />
+      <recent name="D:\ideaWorkspaces\SpringCloudDemo\SpringCloudDemo\cloud-eureka-service2" />
+      <recent name="D:\ideaWorkspaces\SpringCloudDemo\SpringCloudDemo\cloud-eureka-service\src" />
+      <recent name="D:\ideaWorkspaces\SpringCloudDemo\SpringCloudDemo\cloud-api-commons\src\main\java\com\dabin\springcloud\entities" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="springcloud" />
       <recent name="entities" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ideaWorkspaces\SpringCloudDemo\SpringCloudDemo\cloud-api-commons\src\main\java\com\dabin\springcloud\entities" />
-      <recent name="D:\ideaWorkspaces\SpringCloudDemo\SpringCloudDemo\cloud-api-commons\src\main\java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkspaces\SpringCloudDemo\SpringCloudDemo\cloud-eureka-service2" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunManager" selected="Spring Boot.EurekaMain (1)">
+    <configuration name="EurekaMain (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-service2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dabin.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dabin.springcloud.EurekaMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dabin.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dabin.springcloud.EurekaMain" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,9 +129,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PaymentMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudProviderPay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dabin.springcloud.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dabin.springcloud.springcloud.PaymentMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.EurekaMain (1)" />
+        <item itemvalue="Spring Boot.EurekaMain" />
         <item itemvalue="Spring Boot.OrderMain" />
+        <item itemvalue="Spring Boot.PaymentMain" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +162,8 @@
       <workItem from="1608572644984" duration="4034000" />
       <workItem from="1609074100331" duration="869000" />
       <workItem from="1609168359230" duration="369000" />
-      <workItem from="1609170395731" duration="2829000" />
+      <workItem from="1609170395731" duration="9815000" />
+      <workItem from="1609645723812" duration="14128000" />
     </task>
     <servers />
   </component>
@@ -152,13 +180,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="311" y="0" key="#Project_Structure" timestamp="1609172189191">
+    <state x="311" y="0" key="#Project_Structure" timestamp="1609777438436">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1608574455897" />
-    <state x="311" y="0" key="#Project_Structure/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172189191" />
+    <state x="311" y="0" key="#Project_Structure/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609777438436" />
     <state x="765" y="240" key="#com.intellij.ide.util.MemberChooser" timestamp="1609170951036">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -171,55 +200,87 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172481904" />
-    <state x="549" y="110" key="FileChooserDialogImpl" timestamp="1608572985478">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="686" y="138" key="FileChooserDialogImpl" timestamp="1609263418759">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="549" y="110" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1608572985478" />
-    <state width="1877" height="333" key="GridCell.Tab.0.bottom" timestamp="1609172560662">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="686" y="138" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263418759" />
+    <state width="1877" height="528" key="GridCell.Tab.0.bottom" timestamp="1609264059828">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1608573061809" />
-    <state width="1877" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172560662" />
-    <state width="1877" height="333" key="GridCell.Tab.0.center" timestamp="1609172560662">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="528" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1609264059828" />
+    <state width="1877" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263949487" />
+    <state width="1877" height="528" key="GridCell.Tab.0.center" timestamp="1609264059828">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1608573061809" />
-    <state width="1877" height="333" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172560662" />
-    <state width="1877" height="333" key="GridCell.Tab.0.left" timestamp="1609172560662">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="528" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1609264059828" />
+    <state width="1877" height="291" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263949487" />
+    <state width="1877" height="528" key="GridCell.Tab.0.left" timestamp="1609264059827">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1608573061809" />
-    <state width="1877" height="333" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172560662" />
-    <state width="1877" height="333" key="GridCell.Tab.0.right" timestamp="1609172560662">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="528" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1609264059827" />
+    <state width="1877" height="291" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263949487" />
+    <state width="1877" height="528" key="GridCell.Tab.0.right" timestamp="1609264059828">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1608573061809" />
-    <state width="1877" height="333" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172560662" />
-    <state width="1877" height="333" key="GridCell.Tab.1.bottom" timestamp="1609172361702">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="528" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1609264059828" />
+    <state width="1877" height="291" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263949487" />
+    <state width="1877" height="528" key="GridCell.Tab.1.bottom" timestamp="1609264059829">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172361702" />
-    <state width="1877" height="333" key="GridCell.Tab.1.center" timestamp="1609172361700">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="528" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1609264059829" />
+    <state width="1877" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263949487" />
+    <state width="1877" height="528" key="GridCell.Tab.1.center" timestamp="1609264059828">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172361700" />
-    <state width="1877" height="333" key="GridCell.Tab.1.left" timestamp="1609172361700">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="528" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1609264059828" />
+    <state width="1877" height="291" key="GridCell.Tab.1.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263949487" />
+    <state width="1877" height="528" key="GridCell.Tab.1.left" timestamp="1609264059828">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172361700" />
-    <state width="1877" height="333" key="GridCell.Tab.1.right" timestamp="1609172361701">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="528" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1609264059828" />
+    <state width="1877" height="291" key="GridCell.Tab.1.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263949487" />
+    <state width="1877" height="528" key="GridCell.Tab.1.right" timestamp="1609264059829">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172361701" />
-    <state x="338" y="0" key="SettingsEditor" timestamp="1609170419436">
+    <state width="1877" height="528" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1609264059829" />
+    <state width="1877" height="291" key="GridCell.Tab.1.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263949487" />
+    <state x="463" y="67" key="SettingsEditor" timestamp="1609263438412">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1608573449487" />
-    <state x="338" y="0" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609170419436" />
-    <state x="223" y="97" key="new project wizard" timestamp="1609172043785">
+    <state x="463" y="67" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609263438412" />
+    <state x="502" y="260" width="915" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1609261458222">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="502" y="260" width="915" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609261458222" />
+    <state x="662" y="257" width="596" height="536" key="find.popup" timestamp="1609866028019">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="662" y="257" width="596" height="536" key="find.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609866028019" />
+    <state x="223" y="97" key="new project wizard" timestamp="1609777195406">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="178" y="77" key="new project wizard/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1608573945273" />
-    <state x="223" y="97" key="new project wizard/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609172043785" />
+    <state x="223" y="97" key="new project wizard/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609777195406" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1609777761925">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1609264100974" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1609777761925" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

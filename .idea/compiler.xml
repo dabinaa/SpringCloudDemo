@@ -7,6 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-eureka-service" />
+        <module name="cloud-eureka-service2" />
+        <module name="cloud-zookeeper-service" />
         <module name="cloud-api-commons" />
         <module name="cloudProviderPay" />
         <module name="cloud-order-consume" />
